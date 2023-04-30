@@ -1,3 +1,5 @@
+<img src="https://github.com/gnsepili/NatureQL/blob/main/client/src/Components/logo.png" alt="NatureQL Logo" height="200">
+
 ## NatureQL: Convert Natural Language to SQL Query
 
 NatureQL is a project that aims to convert natural language to SQL query. It is a web application with a frontend built using React and a backend built using FastAPI. With NatureQL, you can easily generate SQL queries by simply typing in natural language.
