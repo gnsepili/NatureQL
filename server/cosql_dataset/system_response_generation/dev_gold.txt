@@ -1,0 +1,1074 @@
+here are the total number of car models produced and maker full name for each car model
+the model which is the most popular is result0
+here are the models which are the least popular .
+here are the name of companies which have three or more models
+there are the names of all singers .
+the table shows singer names and number of concerts for each singer .
+yes , there are result0 distinct template ids .
+there are result0 template ids that are used by more than one document .
+the documents that use each of the template_ids that are used by more than one document are shown in the result table .
+here are the first names of the students who permanently live in the country haiti
+the first name of the students who have the cell phone number 09700166582 is result0
+here are the last name and the detailed current address of the student who has the cell phone number 09700166582
+the email address of the student who has the cell phone number 09700166582 is jillian26 @ example.net
+here are the name of the stadium that does not have a concert in year 2014
+the capacity of balmoor is result0
+the theme of balmoor is happy tonight
+result0 dogs have gone through treatment .
+these are the ages of dogs which have gone through treatment
+this is the highest weight among dogs of age 2 .
+there are result0 teachers
+there are result0 different courses
+here are the names of teachers and the number of courses they teach
+here are the names and the ages of all the teachers
+the latin commandar of battle of serres is result0
+the result of the battle with a date 31 jan 1206 is bulgarian victory
+the bulgarian commaned on jun 1205 are result0 and result1
+the name of balwin 1 is battle of adrianople
+there are result0 tv channels .
+the language of the series sky music is result0
+the title of the cartoon with id 2.0 is terror on dinosaur island !
+the highest horsepower on the table is result0 .
+there are result0 entries in the cars data table .
+there are a total of result0 cylinders among entries in the cars data table .
+lahden stadion has the largest number of products
+ilkka mäkelä is the manager of the shop which has the largest number of products .
+the number of products in the shop of that manager which has the largest number of products is result0 .
+the location of the district that has the shop with the largest number of products is result0
+the shop id of the shop which has the largest number of products is result0
+the average population of all cities is result0
+here is the result table of the districts which have cities with populations greater than the average . for example , one of them is result0 .
+here is the result table of the number of cities in each district whose population is greater than the average population of cities . for example , district result0 has only one city with a population greater than the average .
+here are the names of the nations whose government form is us territory .
+here are the gnp and population of nations whose government form is us territory .
+here are the average gnp and total population in all nations whose government form is us territory , which are result0 and result1 .
+the surface area of the continent asia is result0 .
+these are all the local names .
+aruba 's code is result0 .
+there are result0 shops total .
+yes , these are all the shops ' names .
+these are the number of employees hired by each shop .
+the list of singers names are shown in the result table .
+the song named you by singer named joe sharp was released in result0 .
+the number of concerts that joe sharp has held is 0 .
+singer named joe sharp is from the result0 .
+here are all continents .
+here are the number of countries belonging to each continent along with the id and name of the corresponding continent .
+these are the models that are lighter than 3500 .
+these are the weights of all bmw models .
+the carmaker with id 2 is volkswagen .
+hi . there are result0 contries listed .
+there are result0 different forms of government
+here are the 35 different forms of government
+there are result0 contries have a republic government form
+here are the names of the 122 countries that have a republic government form
+here are the languages spoken in the country with name latvia
+the number of airlines is result0 .
+the name of the usa airline is united airlines .
+the abbreviation of us airways is result0 .
+there are result0 singers .
+the citizenship of alice walton is united states
+the sales from song id 3 is result0 .
+delta airlines is from the country 'usa ' .
+the destination airports of flight no 44 are acv and abr .
+airtran airways is the airline has the most number of flights .
+the number of the courses with different course ids is result0 .
+the name of the course with least number of students of enrollments is result0 .
+there are result0 concerts
+here are the stadium names and the number of concerts in each stadium
+the capacity of the stadium with the name stark 's park is result0
+here are all the concert names
+there are three different treatment type .
+this is the information about the most expensive treatment .
+the most recent treatment has a price of result0 .
+the airlines that have fewer than 200 flights are shown in the result table .
+the destination airport of the first three of the airlines that have fewer than 200 flights are show in the result table . the country is not available .
+result0 is the only nationality shared by more than 1 person .
+here are the ids for people having a nationality of russia .
+here are the ids and names for people having a nationality of russia .
+result0 is the average age of all losers of all matches .
+result0 is the average age of all winners of all matches .
+result0 is the average munites of all matches .
+the longest match had result0 minutes .
+the shortest match had result0 minute .
+the count of flights are landing in the city of aberdeen or abilene is result0
+the airport codes for the city abilene are shown in the table
+the names of the museums are in the result table .
+the name of the museum that was visited the most is in the result table .
+the id and name of the museum that was visited the most are in the result table .
+here is a list of the titles or cartoons directed by ben jones or brandon vietti .
+here is a table of the titles of cartoons directed by ben jones or brandon vietti and their original air dates .
+here is a table of the titles of cartoons directed by ben jones or brandon vietti and their writers .
+these are the information about documents with a `` result0 '' in their description .
+sure , these are the names of documents that have a `` w '' in the description .
+these are the names and template ids of documents whose description contain a `` w ''
+the average age the the losers are result0
+the average age of the winners is result0
+there are result0 winners that are left handed
+the names of the winner and loser from the longest match are petra kvitova and angelique kerber respectively .
+the table shows the names of all the dogs .
+the table shows the names of the dogs with the rarest breed .
+the table shows the names and genders of the dogs with the rarest breed .
+the table shows the names and treatment dates of the dogs with the rarest breed .
+there are result0 students who have a cat pet .
+there are result0 students who do n't have a cat pet
+here is the table of the ids of the students who do n't have a cat pet . for example , they are result0 and result1
+the name of the visitor who visited a museum opened before 2009 and a museum opened after 2011 is fernando gago .
+the name of the museum that the visitor who visited a museum opened before 2009 and a museum opened after 2011 and also visited before 2009 is plaza museum .
+the price per ticket at plaza museum is result0 .
+the level of membership of fernando gago is result0 .
+the age of the visitor fernando gago is result0 .
+here are the source airports for flights with the airline united airlines .
+here are the flight numbers of all flights with the airline united airlines .
+here are the destination airports of the flights with number 28 .
+here are the destination airports of the flights with number 29 .
+there are the first and last names of all the players .
+there are the first names of all left-hand players .
+here are the number of united airlines flights which go to city 'aberdeen ' , which is result0 .
+here are the cities does united airlines go to except for aberdeen .
+the names of the teacher for the math course are kearsley brown , vicente carretero
+the grades of courses that the teachers for the math teach are result0 and result1
+here are the staring dates of the math courses .
+the birth date of the poker player with the lowest earnings is august 8 , 1986 .
+the name of the poker player with the lowest earnings is yevgeni sivozhelez .
+the nationality of the poker player with the lowest earnings is result0 .
+there are result0 poker players .
+two poker players are taller than 200 .
+these are the average earnings of the players whose height is higher than 200 .
+here is the list of student ids for students who have dogs as their pet .
+there is no student have a cat and dog as a pet .
+sure ! here is the list of the first name and ages of the two students who have dogs as pets .
+there are result0 countries .
+result0 is the country code for city herat .
+the population of city qandahar is result0 .
+here are the ids of tv channels whose country has more than two tv channels .
+here are the package options of tv channels whose country has more than two tv channels .
+series names of tv channels in alphabetical order are shown in the table .
+there are result0 dogs who have gone through treatments .
+the youngest dog who has gone through any treatment has an age of result0 .
+the oldest dog who has gone through any treatment has an age of result0 .
+the dogs who have gone through any treatment have an average age of result0 .
+this shows the countries names which don ‘ t use english
+this shows the population of country that do not user english
+the weight of the car with make id 1 is result0 .
+the car model buick was launched in the following years .
+the horsepowers of the car model plymouth are the following .
+the model with the largest horsepower among cars with 4 cylinders is result0 .
+there are result0 different cars on this list were produced in 1974 .
+there are the results of the car ids produced in 1974 with 8 cylinders .
+here are the names of shop
+here are the names of shop which are hiring
+the name of shop which is hiring the highest number of employees is fc haka
+there are result0 singers in total .
+there are result0 singers that have songs with sales more than 300000 .
+here is the result table shows the distinct names of singers that have songs with sales more than 300000 .
+these are the names of all contestants .
+the number of contestants is result0 .
+edwina burnam has contestant number 1 .
+tabatha gehling has contestant number 2 .
+all airport names are listed in the result table .
+there are result0 different flightno .
+there is result0 country .
+there are three dog breeds .
+the result0 has most number of dogs
+here are the size codes of the dogs with bulldog breed name .
+the name of the breed with most dogs is result0 .
+robert craft works the most years
+robert craft worked result0 years
+colin davis works the least years
+here is the information about the professional who has done the most treatments .
+here is the information about the professional who has done the least treatments .
+there is no prefessional who has at most 3 treatments .
+the average number of treatments taken by all professionals is result0 .
+here are the names of countries that do not speak english .
+here are the names of countries that do not speak english and whose government forms are not republic
+the number of votes from state 'ny ' or 'ca ' is result0 .
+the different contestant numbers are listed .
+the number of vote id of contestant number 5 is result0 .
+result0 and result1 are the two different countries in the table
+here are all the nationalities in the table
+the number of records where nationality is russia is result0
+the number of records where nationality is bulgaria is result0
+here are the information of the makers who designed more than 3 car models .
+result0 and result1 are the ids of the makes who designed more than 3 car models .
+here are the full name and id of the makes who designed more than 3 car models appear in the same table .
+this is the average horsepower .
+this is the id of the car with largest horsepower .
+this is the acceleration of car id 39
+there are result0 cars that have accelerate more than 19.0
+result0 is the year of the concert with a name auditions .
+result0 is the year of the concert with a name super bootcamp
+result0 is the year of the concert with a name home visits
+yes . there are other concerts other than those with names of result0 , super bootcamp , and home visits in year 2014 or 2015
+there were result0 concerts in year 2014 or 2015
+there were result0 concerts in year 2014
+there were result0 concerts in year 2015
+the names of the different tourneys are shown in the result table .
+yes , the names of the tourneys with more than 10 matches are shown in the result table .
+yes , the names of the tourneys with more than 10 matches are shown in the result table .
+there are result0 graduates .
+yes , the unique date lefts are shown in the result table .
+the first name , middle name and last name of the earliest graduate of the school is shown in the result table .
+the source airports of the flight whose number is 28 are `` apg '' and `` abq '' .
+the city with the airport code `` apg '' is `` aberdeen '' .
+here is the result table shows the names of airports which do not have any flight in and out . for example , the airport `` phillips aaf '' does not have any flight in and out .
+the result table shows the info of the first transcript released .
+the winner name of 3 youngest winners are madison keys , madison keys and madison keys
+here are the points of the 3 youngest winners .
+the ages of 3 youngest winners table are here .
+there are result0 friends in the table .
+the average grade of entries in the highschooler table is result0 .
+here are all the distinct names of entries in the highschooler table .
+there are result0 poker players .
+there are result0 poker players who have an earning more than 300000
+here are the names of poker players who have an earning more than 300000
+there are result0 museums .
+the number of staff members in each museum is listed in the table .
+the id and the name of the museum who has the most staff members is result0 and plaza museum .
+result0 students in total there are on this list
+this shows the first names , middle names of all 15 students
+this shows the `` date first registered '' information associated with each student
+there are result0 students in total
+there are two students ' last name is 'smith'，their age is result0 and result1
+here are the pet id and age of students whose last name are `` smith '
+the list of all distinct student ids for students who have pets is shown in the result table .
+the first name , last name , major and age of the two students with pets is shown in the result table .
+the first name , last name , major and age of the student ( s ) who do not have a cat are shown in the result table .
+there are result0 dogs in total .
+the dog named kacey has an age of result0
+result0 is the name of the dog with the highest weight
+here are the size codes of dogs with a breed code bul
+the following table shows the names of the nations with the 3 lowest populations
+russian federation has the largest surface area .
+of the 3 nations with the lowest populations , result0 has the largest surface area
+the total population of antarctica is result0
+the following table shows the name and population of 3 nations with the lowest population . the other two also have result0 population .
+the average friend id is result0 .
+the average grade of all high schoolers is result0 .
+the highest grade of all high schoolers is result0 .
+the number of students enrolled in a bachelor degree program is result0 .
+here is a list of the student ids enrolled in a bachelor degree program .
+the first , middle , and last names of the student with id 9 is result0 result1 result2 .
+the first , middle , and last names of the student with id 7 is result0 result1 result2 .
+here is a table of the first , middle , and last names and the degree of the students in the bachelor program . for example , result0 result1 result2 has degree result3 .
+here is a list of the different degree summary descriptions .
+here is a list of the student ids of the students in the bachelor program .
+here is a list of the first , middle , and last name of the students in the bachelor program .
+there are result0 distinct makes listed with the model chevrolet .
+there are result0 distinct models listed in the table .
+the model with the greatest number of distinct makes is ford .
+here is a list of names of teachers with the id for courses they teach .
+here is a list of names of teachers and the number of courses they teach .
+here is a list of names of teachers below age 30 .
+here is a list of dates for all performances with the type audition .
+yes , there are more than 3 different orchestras listed in the table .
+the birth date of player id 200002 is result0
+the first name of player id 200001 is result0
+the country codes of countries that have more than 50 players is in the table
+the city kabul is located in southern and central asia region .
+the city herat is located in southern and central asia region .
+the city qandahar is located in southern and central asia region .
+result0 is the year that has the most number of matches
+result0 is the year that has the least number of matches
+there were result0 matches in the year of result1 .
+there were result0 matches in the year of result1 .
+there were result0 matches on a hard surface .
+here is the result table of the full name of car makers and the number of models they made . for example , the car maker `` american motor company '' made result0 model .
+here is the result table of the ids of car makers .
+here is the result table of the countries of all car makers .
+the average percent of country languages is result0 .
+the country with code result0 has the highest dutch speaking population by percentage .
+the difference in average percent to dutch speaking and papiamento speaking countries is 49.33 .
+the membership level of gonzalo higuaín is result0
+guti midfielder is the only visitor with membership level 5
+result0 people have membership level is greater than 5
+the age of the visitor with membership level 8 is result0
+there are result0 persons who have membership level greater than 4
+here are the names and membership level of the visitors whose membership level is higher than 4 , and sort by their age from old to young .
+result0 is the name of the country that speaks the largest number of languages .
+there are result0 languages spoken in canada
+here are the languages spoken by canada .
+there are result0 countries speaking chinese .
+here are the names of countries in north america .
+here are the official languages of countries in north america .
+life expectancy in canada is result0 .
+there are result0 students who have more than one pet .
+result0 result1 is the name of the student who has more than one pet .
+result0 result1 is female .
+there are result0 regions in asia .
+there are result0 regions in europe .
+the total surface area of continents asia and europe are result0 .
+there are result0 templates that have the template type description `` presentation ''
+here are the template ids with template type description `` presentation ''
+here are the ids and type codes of templates with type description `` presentation ''
+the most number times of a course enrollment result show in different transcripts is result0 .
+result0 is the student course id of the course whose enrollment result shows the most number times in different transcripts .
+the least number of times of a course enrollment result shows in different transcripts is result0 .
+result0 is the student course id of the course whose enrollment result shows the least number times in different transcripts .
+the average of student course ids is result0 .
+here are the names of the properties with more than 1 room
+here are the names of the properties that are either houses or apartments with more than one room
+here are the names and number of rooms of the properties that are either houses or apartments with more than one room
+no . there is no apartment with only 1 room .
+result0 is the average agreed selling price of all houses with more than one room
+there are result0 airports
+there are result0 airports that have flights depart from
+there are result0 flights having asy as its destination airport
+there are result0 flights having asy as its destination airport and having apg or abr as its source airport
+yes . here are the flight nos of the flights having apg or abr as its source airport and do n't have asy as their destination airport .
+there are result0 car makers in germany .
+the names of the car makers in germany are shown in the result table .
+there are result0 car makers in the usa .
+the names of the car makers in the usa are shown in the result table .
+here are the first and last names of all owners and the states they live in .
+here are the first and last names and email addresses of all owners
+here are the first and last names with emails of owners living in the state whose name contains the substring `` north ''
+result0 has more than one employee under age 30 .
+none has more than one employee under age 30 .
+here is the table of the name and ages of all employee over age 30 . for example , mark regan is result0 years old .
+here is the table of the name and ages of all employees under age 30 . for example , george chuter is result0 years old .
+here is the table of cities of employees with an age under 29 .
+the number of owners is result0 .
+the age of the youngest dog is result0 .
+the name of the youngest dog is result0 .
+the first and last name of the owner of evangeline is result0 result1 .
+alice walton and abigail johnson are not in the song table .
+no . just these two
+the names of the singers born in either 1948 or 1948 are christy walton and alice walton
+both of them have citizenship united states
+christy walton has the highest net worth among the singers that were born in 1948 or 1949
+no , she does not . her net worth is result0 millions .
+alice walton has the lowest net worth of singers born between 1948 and 1949 .
+result0 battles did not lose any ship with tonnage 225
+result0 battle lose a ship with tonnage 225
+result0 ship has a tonnage of 225 .
+result0 ships have a tonnage above 225 , so yes .
+the result of the battle when the ship with a tonnage of 225 was sunk is `` two year truce ''
+the fullname of maker amc is american motor company .
+there countrynames for countryid 1 , 2 , 3 are result0 , result1 , and result2
+the model id for model amc is result0 .
+the ids and names of the countries which have more than 3 car makers or produce the 'fiat ' model are listed in the result table . one of them is countryid result0 with countryname result1
+the money rank of the poker player with the highest earnings is result0
+the average money rank of all poker players is result0 . so it is higher .
+the poker player with the highest earning has a people id of result0
+the poker player with the highest earning has a best finish of result0 .
+294570.8 is the difference between the highest earning and average earning . here are the highest and average earning of all poker players .
+the highest earning is result0 .
+there are result0 distinct orchestras .
+result0 orchestra has no performance .
+the orchestra with no performance is named san francisco symphony orchestra and has orchestra id result0 .
+here are the name and location of the stadiums which some concerts happened in the years of both 2014 and 2015
+the concert with name super bootcamp happened in the year of result0
+the concert named auditions happened in the year of result0
+the concert named auditions happened in the stadium with name stark 's park
+here are the names and locations of stadiums which had some concerts in either 2014 or 2015
+there are result0 flights operated by united airlines
+united airlines flights have result0 different destination airports
+the number of 'united airlines ' flights with destination airport 'asy ' is result0
+yes
+the degree program ids are shown in the result table .
+all the semester ids are shown in the result table .
+the semester names are shown in the result table .
+the semester that most students registered in was the semester summer 2010 with id result0 .
+here is the result table of the average life expectancy for each government form . for example , administrated by the un has an average life expectancy of result0
+here is the result table of the government forms whose average life expectancy is greater than 72 . for example , one of them is commonwealth of the us .
+here is the result table of the government forms and their populations whose average life expectancy is greater than 72 . for example , one of them is commonwealth of the us with a population of result0 .
+here are ids of the tv channels that do n't play any cartoons by ben jones .
+here are ids of the tv channels play any cartoons by ben jones .
+here are titles of the cartoons dircted by `` ben jose '' . for example , one is `` the rise of the blue beetle ! `` .
+there are all document ids
+the table shows the number of paragraphs in each document .
+the table shows all document ids and the number of paragraphs in each document ordered by document id .
+the owner ids and zip codes from the table are shown in the table .
+the owner ids , dog ids and the cost of treatment are shown in the table
+here are the first name and id of the owner who has paid the largest amount of money in total for dogs .
+the last name of the owner with a first name jaclyn is result0 .
+the owner id and zip code of this owner who has paid the largest amount of money in total for their dogs are shown in the table
+here is the result table of all flight numbers . for example , one of them is result0 .
+here is the result table of all flight numbers and their destination airport code . for example , one of them is result0 with the destination asy .
+the quantity of flights that had aberdeen or abilene as their destination cities is result0 .
+yes .
+the airport city that has the most flights landing in it is aaf
+here are the country codes of countries where spanish is spoken by the largest percentage of people
+the total number of countries with a spanish speaking majority is result0
+among countries with a spanish speaking majority , result0 countries have spanish as the official language spoken
+the number of flights that arrive in the city called aberdeen is result0
+the number of flights that depart in the city called aberdeen is result0
+the following table shows the african countries that have population less than any country in asia
+aruba is in north america continent .
+result0 is the local name of angola .
+result0 is the surface area of afghanistan
+result0 is the code of aruba .
+here is the list of first names from professionals or owners except those found as dog names .
+the email address matching the professional with name taryn is deanna.schuster @ example.com .
+the state corresponding to the professional named jayson is result0 .
+here are the names of the makers who produced some cars in the year 1970
+here are the models and makes of the cars produced in the year 1970
+the full name of the maker that produced the heaviest car in the year 1970 is ford motor company
+here are the titles of cartoons that are directed by ben jones
+here are the channels and ids of the cartoons
+here are all the series name of tv channels which do n't use language italian
+here are all the ids of tv channels that do not play any cartoon directed by ben jones
+the average number of products of all stores is result0
+here are the names of stores whose number of products is bigger than 6685
+there are result0 shops in total
+there are result0 flights in the table .
+this is the city with least number of departing flights .
+the flight number of apg is 28 .
+this is the name of the airport with code dys .
+this is the city of abr .
+the countries where either result0 or result1 is the official language are shown in the result table .
+the official languages of the country named belgium are shown in the result table .
+the countries where arabic language is spoken are shown in the result table .
+th languages spoken in egypt are shown in the result table .
+the number of countries where arabic is the official language is result0 .
+the names of the countries with arabic as the official language are shown in the result table .
+here are the names and populations of countries in continent africa
+here are the names and populations of countries in continent asia .
+here are the names of the asian countries that have a larger population than that of any country in africa .
+here are the names and populations of the asian countries that have a larger population than that of any country in africa .
+here are the names and government forms of the asian countries that have a larger population than that of any country in africa
+result0 is the country with the shortest life expectancy in asia
+british indian ocean territory is the country with the shortest life expectancy in arfica .
+the gnp of afghanistan is result0
+the population of afghanistan is result0 .
+the following table shows the earnings of all poker players .
+the following table shows the earnings of all poker players ranked from highest to lowest .
+the poker player with the least amount of earnings made 21 final tables .
+the poker player with the most amount of earnings made 19 final tables .
+here is the list all the template ids and which document ids they are associated with
+here is the list all the template ids and the template_ids
+yes . here are template ids not associated with any document id
+here are the list of the template_ids for each template that is not associated with a document_id
+here are the list of the template_ids for each template that is associated with a document_id
+there are result0 dogs that have gone through any treatment .
+the youngest dog that has gone through any treatment has an age of result0 .
+the oldest dog that has gone through any treatment has an age of result0
+result0 is the average age of dogs who have gone through any treatment .
+the different semester names are shown in the table .
+the semester name which not have any student enrolled are shown in the table .
+the id , name , and descriptions of the semesters which do not have any student enrolled are shown in the table .
+the count of female students is result0 .
+the first name and last name of the youngest student on the list are result0 result1 .
+the average age of students who do not have any pet is result0
+the city code of student id 1003 is result0
+some cartoons written by todd casey are playing in some tv channels in countries of the united kingdom and result0 .
+the tiles of cartoons written by todd casey is enter the outsiders ! and return of the fearsome fangs !
+michael chang directed the cartoon titled enter the outsiders ! .
+there are result0 different kinds of languages
+the population of the country with name aruba is result0
+the gnpold of the country afghanistan is null
+here are the codes of countries with more than 50 players
+here is the list of the code of countries that have less than 40 players .
+here are the first and last name of players from the country code aho .
+here are the player id for players from the country code aho .
+the hand for player with id 206449 is result0 .
+there are result0 players having hand u .
+sure ! here are the names of the battles with no ships lost in the 'english channel ' .
+here is the list of results of the battles with no ships lost in the 'english channel ' .
+the bulgarian commanders of the battles with no ships lost in the 'english channel ' are listed here .
+here we show the dates for the battles with no ships lost in the 'english channel ' .
+here we show the latin commanders of the battles with no ships lost in the 'english channel ' .
+there are result0 shops .
+the maximum number of products that one shop has is result0 .
+the minimum number of products that one shop has is result0 .
+result0 is the breed with the most dogs .
+there are result0 dogs with breed bulldog .
+result0 is the breed of the second most dogs .
+there are no breed with 0 dog .
+there are no breed with 1 dog .
+result0 is the first name of the student who has a cat pet .
+here are the first names of the students who have dog pets .
+there are result0 students have any type of pet
+there is no students have bothe a cat and a dog
+the age of linda 's pet is result0
+the name of the visitors who have a membership higher than 4 are shown in the result table .
+yes , the name and age of the visitors who have a membership higher than 4 are shown in the result table .
+the name and age of the visitors who have a membership higher than 4 sorted by age descending are shown in the result table .
+the customer ids of the visitors who have a membership higher than 4 sorted by age descending are shown in the result table .
+there are the first , middle and last names of the students enrolled in 2 degree programs .
+there are ids of the students enrolled in 2 degree programs .
+the email address of the student with id 4 is jillian26 @ example.net .
+the date first registered of the student timothy anna ward is 1971-02-05 07:28:23 .
+the number of dog owners who live in virginia is result0 .
+the first and last name of the dog owner who lives in virginia is result0 result1 .
+the name of the dog of the owner who lives in virginia is result0 .
+the breed code of the dog whose owner name is bessie is result0 .
+the size code of the dog whose owner name is bessie is result0 .
+there are result0 record companies .
+there are result0 orchestras .
+no . there is no conductor working for more than one orchestra .
+the names of the orchestras are listed by the date they were founded starting with the oldest .
+the year when the orchestra named 'royal danish orchestra ' was founded was 2002 .
+the record company which is shared by the most orchestras is decca records .
+there is result0 'united airlines ' flight go to the airport asy .
+result0 is the id of airline `` united airlines '' .
+there is one flight with airline id result0 goes to the destination airport asy .
+there are result0 cars in the model of volvo
+the id of the car that is in the model of volvo and has the least accelerate is result0
+the volvo car having the least accelerate has result0 cylinders
+there are result0 highschoolers .
+there are result0 pairs of friends .
+the following table shows the names of all the highschoolers who have friends .
+the following table shows the names of all the highschoolers who have friends and their corresponding number of friends .
+these are the ids of the semesters that bachelor students got enrolled in .
+the degree summary description for the student with id 14 are result0 and result1 .
+citroen is the model that saves the most gasoline .
+ford is the model that has the highest horsepower .
+george chuter is result0 years old
+lee mearsis result0 years old
+louis deacon got the highest one time bonus
+these are the names of people who do not play poker .
+these are the names of people who play poker .
+there are result0 players
+here are the first names of all the players .
+the country code of the player with first name mirjana is result0
+the birth date of the player with first name justine is result0
+here is the table of the model of gerneral motors . for example , they are result0
+here is the table of the models have a weight greater than 3500 . for example , they are result0 .
+here are the distinctive models produced by maker with the full name general motors or weighing more than 3500 .
+here are the models that weigh greater than 3500 or have the maker general motors but not both .
+the height of aleksey ostapenko is result0
+the person born on august 16 , 1982 is teodor salparov
+here is the result table of the people ids of nationality russia . for example , one of them is result0
+the nationalities that are shared by at least two people is result0
+the population of afghanistan is result0
+country aruba has a population of result0
+this is the list of languages used in country aruba
+yes , the official language for the country aruba is result0 .
+the official language for the country afghanistan are result0 and result1
+there is n't any other country speak dari other than afghanistan
+yes , result0 is the country speaking pashto other than afghanistan .
+no . result0 is the only official language of pakistan .
+the dog names and corresponding treatment cost are listed .
+the result table of the treatment cost is listed in descending order of the cost of treatment .
+the dog names which cost less than 1000 for treatment are listed .
+the age of the visitor named gonzalo higuaín is 35 .
+here are the numbers of tickets , the customer id with 5 bought during visits .
+the total spent of the vistor named arjen robben are result0 and result1
+the name and age of the visitor who bought the most tickets at once are arjen robben and result0
+there are unique regions whose country language is english .
+there are unique regions whose country language is dutch .
+there are the life expectancies of the countries whose language is dutch .
+there are the names of the 3 youngest winners across all matches .
+there are the loser names for the 3 youngest winners across all matches .
+here are the first and last names of all professionals .
+here are the first and last names of the professional that lives in a city containing the substring west
+the role code of the professional with first name taryn is result0
+here are the role , street , city , and state of the professional with first name taryn
+here are the names and states of all professionals .
+here are the names of all professionals with the state indiana
+there are result0 death events
+here are the detailed information about the event that has the highest number killed
+yes . here are the detailed information of the events that have people injured
+here are the detailed information about the events that has word `` east '' in the event notes
+these are the death situations caused by the ship with tonnage 't ' .
+these are the injury situations caused by the ship with tonnage 't ' .
+there were result0 death and injury situations caused by the ship with tonnage 't ' .
+here are the continents with their corresponding number of car makers
+there are result0 car makers in the country usa
+there are result0 car makers in the country germany
+there are result0 car makers in the country france .
+there are result0 countries in total
+there are result0 cities
+the city with name kabul is in the region of southern and central asia
+there are result0 cities in the region of southern and central asia
+there are result0 documents that have template type code bk .
+the names of the documents that have template type code bk are shown in the result table .
+there are result0 documents that do not have a template type code bk .
+here are the codes of the countries that do not speak english .
+here are the codes of the countries that do not speak english and whose government forms are not republic
+here are languages those countries that do not speak english and whose government forms are not republic speak .
+here are the codes of countries that are on the continent of north america and do not speak english and whose government forms are not republic .
+the information about the professionals from the state result0 are shown in the result table .
+the cell number of the professional with the first name taryn is shown in the result table .
+there are result0 templates .
+the date effective for the template with id 1 is from 2010-09-24 01:15:11 to 1999-07-08 03:31:04
+the template type code for the template with id 4 is result0 .
+the version number for template with id 0 is result0 .
+here is a list of countries where singers with age above 40 are from .
+the country where singers below age 30 are from is result0 .
+the country where singers above age 40 and below age 30 are from is result0 .
+the accelerate of the car make amc hornet sportabout ( sw ) is result0
+the model of car which gives more acceleration is result0
+the model of car which is recent released is result0
+here are all the template ides .
+these template ids are not used in a document .
+these are the effective-to dates of all templates not used in a document .
+result0 templates are used in a document .
+result0 templates are not used in a document .
+here are the ids for all templates not used by any document .
+the names , themes and number of singers for each concert are as follows .
+super bootcamp was in year result0 .
+the stadium id for super bootcamp is result0 .
+the total number of population in the asian continent is result0 .
+the languages that consist of 9.5 percentage are result0 and result1 .
+the life expectancy rate in local with name angola is result0 .
+the gnp of the country with the local name angola is result0 .
+the gnp old of country afghanistan is null .
+here are the names of the singers whose song release year is greater than the average song release year .
+result0 is the average song release year of all singers .
+here are the song names of singers ordered by the song release year .
+here are the song names of singers with age above the average .
+here are all the orchestras of all conductors .
+here are the names of all conductors .
+the conductor named colin davis is result0 years old .
+there are result0 students .
+the first name for student id 3 is result0
+the email address for student id 2 is swift.kolby @ example.com
+there are result0 students enrollments .
+these are the information about all the templates that have been used by all documents
+these are the template type descriptions for templates ever used by any document .
+these are the distinct templates type descriptions for templates ever used by any document .
+russian federation is the name of the country with the largest area .
+the population for the country with the largest area is result0
+the leader for the country with the largest area is vladimir putin .
+the country with the largest area is in result0 .
+the names of poker players whose earnings is higher than 300000 are listed .
+the number of poker players is result0 .
+there are result0 students who live in the state of north carolina .
+here are the first and last names of students who live in the state of north carolina
+here are the first and last names of students who live in the state of north carolina but have not registered in any degree program .
+here is the result table shows all the area codes .
+here is the result table shows the area codes voted for the contestant 'tabatha gehling ' .
+here is the result table shows the area codes voted for the contestant 'kelly clauss ' .
+here is the result table shows the area codes in which voters voted both for the contestant 'tabatha gehling ' and the contestant 'kelly clauss ' .
+the number of shops presented on the table is result0 .
+here is the result table of the shop names . for example , one of them is result0 .
+the location of a shop named fc haka is result0
+the number of products in the shop named hjk is result0
+here are all of the deparatment names and department ids
+here are the deparatment names and department ids which offers the largest number of degrees
+here are all of the degree summary names associated with these departments that offer the largest number of degrees
+here are all the ids of professionals
+here are the ids and roles of all the professionals
+here are the email addresses of professionals that did not operate any treatment on dogs .
+the id of the american motor company is result0 .
+the model id of the maker amc is result0 .
+the maker with id 2 is volkswagen .
+there is result0 car model that was produced by the maker american motor company .
+here are the names of the teachers and the courses they teach .
+here are the names of the teachers and the courses they teach in ascending alphabetical order of the teacher 's name
+here are the names and ids of the teachers and the courses they teach in ascending alphabetical order of the teacher 's name .
+here are all the countries ' names .
+here are all the countries ' government forms .
+here are the countries ' surface areas .
+the language sky music available is result0
+there are 4 the package option of all channels , ther are sky famiglia；no ( ftv ) ；sky famiglia + sky hd and option
+result0 . there is one channel which is available in high definition .
+the content of all the channels is result0
+result0 is the language used on the least number of tv channels
+result0 is the language used on the most number of tv channels
+result0 is the most common content of those tv channels .
+result0 is the least common content of those tv channels .
+here are the series names of all tv channels .
+here are the first names used for professionals or owners
+here are first names are used for professionals or owners , but are not used as dog names
+here are the first names used for professionals or owners , and used as dog names
+the last names of students who have pets are `` result0 '' and `` result1 '' .
+the last name of the student who has a cat is `` result0 '' .
+the last name of the student who has a cat that is age 3 is `` result0 '' .
+the orchestra names and the major record formats are shown in the table .
+the list of orchestra names in ascending order are in the result table .
+the record formats of orchestra in ascending order of count are shown in the result table .
+there are result0 museum id in total in the list .
+the number of staff in museum id 3 is result0 .
+the open year of the capital plaza museum is result0 .
+these are the names of all visitors who visited some museums more than once
+here are the names , ids and ages of the visitors who visited some museums more than once
+here are the names and level of membership for all visitors over the age of 20
+here are the names and ages of all the customers who spent over 100
+there are result0 government forms .
+here are the government form name whose average life expectancy is longer than 72 . there are 17
+here are the government form names and total population for each government form whose average life expectancy is longer than 72 .
+here is the average life expectancy for government form whose average life expectancy is longer than 72
+thanks ! here is the list showing government forms and their total population for government forms having an average life expectancy over 72 .
+the level of membership of visitor id 1 is result0
+the name of customer id 1 is gonzalo higuaín
+the age of customer id 1 is result0
+airtran airways is the airline has the largest number of flights
+airtran airways is the airline that has the fewest number of flights
+the abbreviation of the airline with name result1 airways is result1
+the country of airtran airways is result0
+the result table of the battle ids and the corresponding battle names is listed .
+the result table of the battle ids and battle names of those that had more than 10 people killed in total is listed .
+the result table of the battle ids，battle names and date of those that had more than 10 people killed in total is listed .
+the average pet age for entries with pet type 'cat ' is result0 .
+the average pet age for entries with pet type 'dog ' is result0 .
+the maximum pet age for entries with pet type 'dog ' is result0 .
+here are the results of pet type and the corresponding maximum ages .
+the maximum age for cats is result0 .
+american motor company is the full name of the car maker amc .
+here are the car models produced in germany
+the model bmw has an id result0 .
+here are the ids and names of the countries which have more than 3 cars makers or produce the 'flat ' model
+result0 is the phone number of the professional who has done the most treatment .
+the following table shows the professional id of the professionals who have done at least two types of treatments
+result0 professionals have done only one treatment ? .
+the table shows the document id of the documents with 1 to 2 paragraphs .
+the table show the paragraph text of the document with 1 to 2 paragraphs .
+the name of the youngest teacher is `` vicente carretero '' .
+the hometown of the youngest teacher is farnworth municipal borough .
+there is no other teachers from `` farnworth municipal borough '' except `` vicente carretero '' .
+the teacher with the name vicente carretero has an age of result0 .
+no , there is no other teachers whose age is 26 except `` vicente carretero '' .
+yes , the number of dog pets raised by female students is result0 .
+here is a table of the first and last name of all female students .
+here is a list of the city codes for all students .
+here is a list of the weights of the pets raised by students with sex `` f '' .
+the id of the car with the lowest horsepower is result0 .
+the average of all the horsepower is result0 .
+the car ids of all the cars with lower than the average horsepower are listed .
+the models and ids of all the cars with lower than the average horsepower are listed..
+the transcript id of the latest transcript is result0 .
+the transcript date for transcript id 5 is 2013-06-30 13:01:40 .
+the result table of the date and id of the transcripts with at least 2 course results is shown .
+the other details of transcripts with at least 2 course results are listed . they are null .
+the transcript dates of transcripts with at least 2 course results are listed .
+here are all of the ids of the high school students
+the total number of the ids of student is result0
+mekhi.little @ example.org is the email address of the professionals who live in the state of hawaii
+uboehm @ example.org is the email address of the professionals who live in the state of wisconsin
+here are the first names of all employees with the role code `` employee ''
+here are the the semester names and their number of enrollments
+the name of the semester that has the most enrollments is summer 2010
+here are the student enrollment ids and the degree program ids
+here are the names of the semesters that do not have any student enrolled
+here are the names of the countries where english is n't the official language
+the average life expectancy in the countries where english is not the official language is result0
+the average life expectancy in countries where english is the official language is result0
+there is no flight from airport cvo and airport sna .
+there is no flight from airport cvo and airport dfw .
+here are the airlines having flight from cvo .
+the tv channel of tv series `` a love of a lifetime '' is “ sky radio ”
+the `` a love of a lifetime '' has result0 viewers
+the rating of `` a love of a lifetime '' is result0
+`` a love of a lifetime '' aired in september 24 , 2007
+the player id for the youngest player is result0 .
+the player id for the oldest player is result0 .
+the first name and country code is of the oldest player is shown in the result table .
+the name of the teacher who teaches two or more courses is anne walker
+the age and hometown of the teacher who teaches two or more courses are result0 and little lever urban district .
+the grade the oldest teacher teach is result0
+the total number of tickets bought in all visits is result0 .
+the maximum number of tickets bought in all visits is result0 .
+the average number of tickets bought in all visits is result0 .
+the count of ships is result0
+the names of ships are shown in the table
+the name of the youngest singer is tribal king .
+the name of the song by the singer tribal king is result0 .
+the release year of the song by the singer tribal king is result0 .
+the following table shows the names of the countries that are in the continent of europe
+there are no country that are in the continent of europe and have a population of 80000
+this shows singers name
+the full name of the department that has the substring computer in its name is computer science .
+the description of the department that has the substring computer in its name is `` result0 '' .
+the department_id of the department that has the substring computer in its name is result0 .
+yes . the other details of the department that has the substring computer in its name is null
+the other details for the department named history is `` null ''
+no . there is no department with other details that are not the word 'null ' .
+there are total result0 cylinders in the cars_data table .
+this is the highest weight in the cars_data table .
+there are result0 years in the cars_data table .
+this is the highest accelerate in the cars_data table .
+this is the horsepower of the car with largest accelerate .
+the singer named joe sharp has an age of result0 .
+there is result0 singer from united states .
+there are 6 male singers .
+here is the list that contains all the models that are manufactured by the maker with the name `` general motors '' .
+here is the list that contains all the models that are manufactured by the maker with weight more than 3500 .
+the model of the car with the largest horsepower is result0 and the maker is result1 .
+there are result0 cars manufactured by general motors and with more than 15 mpg .
+the make of the car manufactured by general motors that gets the highest mpg is result1 chevelle concours ( sw ) and its model is result1 .
+there are result0 students in the table .
+the average grade of all the students is result0
+the top grade of the students is result0 .
+the lowest grade of the students is result0 .
+here is the result table of the countries that produced cars . for example , one of the countries is result0 .
+here is the result table of the countries that do not produce cars . for example , one of the countries is australia .
+the table shows student ids and their friends ids
+the table shows the ids of all high schoolers .
+there is no id that is on the second list but is not on the first list .
+the total number of high schooler ids is result0 .
+the total number of friend ids is result0 .
+the id of the student who is not in the ids of friends is result0 .
+the name of the student with id 1510 is result0 , and the grade is result1 .
+here are all the cities of employees . for example , they are result0
+result0 is the city with more than one employee under the age of 30 .
+here are the ages of employees in city bath .
+there are result0 students older than 20 .
+none of the students whose age is over 20 owns pets .
+the distinct name of the loser with age 24.626967830300003 is agnieszka radwanska .
+the total number of matches played where either the loser 's name was petra kvitova or the winner 's name was `` petra kvitova '' is result0 .
+the distinct loser ids of those with loser_rank_points higher than 3500 are shown in the result table .
+the name and rank points of the winner who won the most times is shown in the result table .
+the names of all of the high schoolers are shown in the table
+the amount of the greatest number of likes for each high schooler is result0 .
+the name of the high schooler who has the greatest number of likes is result0
+amenity , eg pool is the feature type name of the feature aircon .
+air conditioning is the full feature description of the feature with name aircon .
+there are result0 different feature ids .
+result0 is the feature type code that associated with the feature with name aircon .
+1975-05-06 12:04:47 is the transcript date that appears least often .
+there is one transcript with a date 1975-05-06 12:04:47 .
+1975-05-06 12:04:47 is the transcript date that shows up the most number of times .
+these are the destination airports of the flights for united airlines .
+result0 airlines have flights departing from apg .
+these are the flight numbers of all flights on delta airlines .
+there are result0 car models produced by makers in the usa .
+here is the list that contains all the car makers that are in the usa .
+there are three models that are produced by ford maker .
+there is n't any student who has at least 2 likes .
+here are the names of students who have at least 1 like
+here are the ids of students who have at least 1 like
+here is the result table of the dest airports of airline 1 . for example , one of them is asy .
+the country of united airlines is result0
+there is no destination airport for asy .
+the country of us airways is the result0
+here is the result table of the airlines of country usa . for example , one of them is united airlines .
+the average grade is result0 .
+these are the names of highschoolers that start with 'a '
+the highest grade is result0 .
+here is the table of the names of the poker players in ascending order of final tables .
+here is the table of their nationalities ordered by the final tables in ascending order .
+maksim botin is the poker player with the highest earnings
+the poker player with the lowest earnings is yevgeni sivozhelez
+the best finish of the poker player with the lowest earning is result0 .
+this shows the release dates for transcripts
+the most recent date for release of transcripts is 2013-06-30 13:01:40
+the last transcript release date is 2013-06-30 13:01:40
+this is the most recently aired cartoon .
+this is the channel of the most recently aired cartoon .
+these are the production code and channel of the most recently aired cartoon .
+the table does n't contain any information about the version number of template id 3 .
+the table shows the document name of template id 25 , which are understanding db and a history of arts .
+result0 is the only template types codes that are not used by any document .
+the version number of template id result1 is result1 .
+there is no flight that has a source airport value of ahd .
+yes . there are all the flight numbers that have a source airport value of ahd .
+there are all airlines that have some source airport value of 'ahd ' .
+the number of stadiums can accommodate more than 1000 people on average is result0 .
+the name of the stadium with the lowest attendance in average is `` glebe park '' .
+the name of the stadium with the highest average attendance is `` stark 's park '' .
+here is the result table of african countries that have a smaller population than that of any asian country . for example , one of the african countries is british indian ocean territory .
+no asian countries have a smaller population than that of any african country .
+the asian country with the highest life expectancy is result0 .
+there are result0 dogs have not gone through any treatment .
+there are result0 dogs have not gone through any treatment and were abandoned .
+all the dog ids of the abandoned dogs and their associated treatment type code are listed in the result table . for example , dog id result0 has treatment type code result1
+the age of the employee named george chuter is result0 .
+the employee with employee id 1 got a total amount of result0 bonus .
+the employee named lee mears is from the city of result0 .
+the id and the summary of the program which most number of students are enrolled in is result0 , result1 .
+the program with id result0 has the most students .
+three students are in program with id 9 .
+zero masters are in program with id 9 .
+program with id result0 has the least students .
+the program with id 3 has one student .
+the total cost of treatment is result0
+result0 result1 provides lowest cost of treatment
+the dog id of lowest cost treatment is result0
+here is the table of continents and their corresponding continent id .
+here are the counts of countries corresponding to each continent name . for example , result0 has result1 countries .
+the continent that has the highest number of countries is europe .
+hi ! welcome . here is the result table of all the document ids and their corresponding document names and number of paragraphs . for example , document id result0 corresponds to the document name summer show and result1 paragraph .
+the following table shows a list of all the paragraph text values .
+there are no paragraph texts with a non null other details .
+here is the list of all cartoons written by todd casey .
+here are the titles which are cartoons written by todd casey .
+the table shows the corresponding television channel of the cartoon written by todd casey .
+the total ticket spent of the visitors whose membership level is 1 is result0
+there are result0 visitors at membership level 1 .
+there are result0 different level of membership
+the names of visitors with level of membership 1 are arjen robben and rafael van der vaart
+the total spent at level of membership result0 is result1 and the total spent at level of membership result2 is result3
+result0 is the first name of player id 200001 .
+the birth date of player_id with `` 200001 '' is result0
+result0 is the country code for player id 200003
+the last name of the player with id 200003 is result0
+two paragraphs are associated with document 'welcome to ny ' .
+the following table shows paragraph texts associated with document 'welcome to ny ' .
+the following table shows paragraph ids associated with document 'welcome to ny ' .
+here is the result table of the total ranking point for each player and their first name . for example , one of the players is result0 with the total ranking point being result1 .
+here is the table of the different first names of players who got the first rank . for example , one of them is result0
+yes . here are the distinct first names of players who got the first rank .
+the african country which has the largest population is result0
+the population of nigeria is result0
+the asian country has the largest population is result0
+china 's population is result0
+there are result0 asian countries which have a population greater than that of nigeria
+here are the name of the asian countries which have a population greater than that of nigeria
+here is the table of unique cities in asian countries . for example , they are result0 .
+here is the table whose asian cities have chinese as their official language . for example , it is result0
+here is a table of asian cities have a population over 200,000 . for example , it is result0
+the average population of all cities in china is result0
+the average population of all cities seaking dutch is result0
+there are result0 visitors .
+there are result0 visitors that have membership levels higher than 4 .
+the names of the 3 visitors that have membership levels higher than 4 are shown in the result table .
+the names of the 3 visitors that have membership levels higher than 4 ranked from high to low is shown in the result table .
+here is the table that lists all the first name of each player and their average ranking .
+here is the table that lists all the first name and the last name of each player and their average ranking .
+here is the table that lists the first and last names of all the left-handed players .
+here is the table that lists all the last name of all left-handed players .
+here is the table that lists all the last name and the average ranking of all left-handed players
+10.4 is the average grade of all students who have some friends .
+yes . here is the info for students with no friend .
+the grades for students with no friend is result0 and result1
+the names for students with no friend are result0 and result1
+here is the list of names of the students with friends .
+there are result0 students in total .
+there are four students whose grade is 9 .
+no . kyle is not a student with grade 9 .
+kyle 's grade is result0 .
+kyle only has one like .
+here are the names of the stadium without any concern .
+if you meant which football stadium has held the highest number of audience , that would be this one .
+yes , here is the football stadium which has held the highest number of audience
+the united states is the most common citizenship of singers .
+result0 is the least common citizenship of singers .
+here is the list of names of all the singers from australia . gina rinehart is the only one .
+people with id 1 has the nationality result0 .
+the birthday date of teodor salparov is august 16 , 1982
+the earnings of the people id 5 is result0
+the money rank of the tallest poker player is result0
+result0 is the program that had the least number of students enrolled
+the average number of students enrolled in all programs is result0 .
+the degree id for architecto is result0
+the degree id for camque is null
+result0 is the id of the degree program where the student by the first name timmothy has enrolled in .
+timmothy first registered on 1971-02-05 07:28:23 and left on 1971-05-17 19:28:49 .
+the middle name of this student is result0 .
+here are the different types of pets
+result0 pets are of type dog
+here are the ages of the result0 pets with type dog
+the pet with the type of dog and the smallest age weighs result0
+the last name of students who live in north carolina are result0 , result1 and result2
+the first name of student live in north carolina are result0 , result1 and result2
+the last name of studetns who live in norh carolina but not in degree are result0 and result1
+their first name who live in norh carolina but not in degree are result0 , result1 and result2
+the first registered date of student from iceland is 1982-02-14 08:46:35
+find the name of loser who played in the match with the greatest number of minutes is angelique kerber and the name of the winner is petra kvitova .
+the score of the match with the greatest number of minutes is 6-7 ( 10 ) 7-5 6-4 .
+here are all the different car models available
+here are distinct car models which are the produced after 1980
+the grade with the most high schoolers is result0 .
+here is a list of the names of the high schoolers in grade 9 .
+the grade of tiffany is result0 .
+the number of high schoolers in grade 9 is result0 .
+the grade of gabriel with id 1689 is result0 .
+the id of tiffany is result0 .
+the name of the high schooler with id 1510 is result0 .
+here are the first and last names of the owner with id is 1 .
+the dog aged 6 has a name result0 .
+here is the table of the names of dogs older than 5 .
+result0 is owned by someone lives in virginia
+the course name of the course that has the least enrollment is result0 .
+the course id of math is result0
+the number of students enrolled a course with the id of 14 is result0 .
+there are result0 different languages .
+the max percentage in the countrylanguage table is result0
+here are the names of all the highschoolers
+here is the name of the high schooler that is friend with kyle
+the id of the high schooler with name kyle is result0
+the name of the high schooler with id 1709 is result0
+here is the list of the name of the high schooler that is friend with jordan
+here is the list of the name of the high schooler that is friend with gabriel
+here is a list of countries in europe .
+here is a table of the names of countries in europe and the number of car manufacturers in each . for example , result0 has result1 .
+here is a list of countries that have at least three car manufacturers .
+here is a table of the names of countries in europe with at least three care manufacturers and the number of care manufacturers in each . for example , france has result0 .
+the total number of car manufacturers in europe is result0 .
+the total number of car manufacturers in america is result0 .
+here is a list of the car manufacturers in america .
+there are result0 visitors who did not visit any museum that was opened after 2010
+here are the names and their level of memberships of the visitors who did not visit any museum that was opened after 2010
+there are result0 owners who do not have dogs .
+here are the first and last names of owners who do not have dogs .
+no .
+the title of cartoon aired first is invasion of the secret santas !
+the title of cartoon aired last is terror on dinosaur island !
+the channel of the cartoon aired last is result0
+the production code of the cartoon aired last is result0
+there are all the info of the singers were born before 1945 .
+there are all the info of the singers were born after 1955 .
+no singers born before 1945 have the same citizenship .
+the same . no singers born after 1955 have the same citizenship .
+the citizenships of the singers born before 1945 are result0 , result1 , and united states .
+there are the citizenships of the singers born before 1945 or after 1955 .
+there is all the info of the singer born before 1945 and with citizenship of the united states .
+there is all the info of the singers with citizenship of the united states born before 1945 or after 1955 ,
+there is all the info of the singer born before 1945 and with citizenship of result0 .
+there is all the info of the singers with citizenship of result0 born before 1945 or after 1955 ,
+there is all the info of the singer with citizenship of result0 was born before 1945 or after 1955 ,
+there are result0 countries
+there are result0 languages
+the surface area of code afg is result0
+the sum of the populations of caribbean countries is result0 .
+the continents with average life expectancies shorter than 72 are result0 , result1 , result2 , and south america .
+here are the total populations for the continents with an average life expectancy shorter than 72 . for example , result0 has a population of result1 .
+here are the average life expectancies for the continents with an average life expectancy shorter than 72 . for example , result0 has an average life expectancy of result1 .
+here are the average life expectancies and total populations for continents having an average life expectancy shorter than 72 . for example , result0 has a population of result1 and a life expectancy of result2 .
+the owner with full name nora haley lives at the street of 0647 hintz village apt . 024
+the home phone of the house owned by the owner with full name nora haley is result0
+the email address of the house owned by the owner with full name jaclyn stoltenberg is hudson.favian @ example.com
+the first name of the customer with last name dubuque is result0
+the id of document with least number of paragraphs is result0
+the id of document with most number of paragraphs is result0
+there are result0 paragraphs in the document whose id is 2394
+here are the paragraph texts for each paragraph
+lynn81 @ example.org is the email address of owner id 1 .
+result0 is the weight of dog id 1
+the age of dog id 1 is result0 .
+the following table shows the owner id and last name of owner who has paid for the most treatments on his or her dogs
+the count of matchesplayed in 2013 is result0
+the count of matches played in 2016 is result0
+the loser id of petra kvitota is result0
+result0 is the country whose tv channels are not playing any cartoon written by todd casey
+ben jones directed the cartoon with a title `` the rise of the blue beetle ! '' written by michael jelenic
+here are the package options for tv channels in italy .
+the name of the song by the youngest singer is result0 , and its release year is result1 .
+the name of the song by the oldest singer is result0 , and its release year is result1 .
+the name of the youngest singer is 'tribal king ' .
+the name and age of the oldest singer are 'joe sharp ' and result0 .
+the country of the oldest singer is result0 .
+the name of the singer from united states is result0 .
+the number of students having a dog as pet is result0 .
+the number of students having a cat as a pet is result0 .
+the first name of students who have cat or dog as pet is listed .
+no .
+yes , they do . here is the result table of the states that have owners living there . for example , one of them is result0 .
+here is the result table of the states that have professionals living there . for example , one of them is result0 .
+here is the result table of the states that have both owners and professionals living there . for example , one of them is result0 .
+here is a list of the first names of all the professionals .
+here is a table of the first names of all professionals with the description of their treatment .
+here is a table of the first name of all professionals along with the description of the treatment they have done .
+there are result0 course id numbers in table course
+this shows all course names
+there are result0 teachers in total
+teacher kearsley brown and vicente carretero take math class
+here are the names of continents and the count of car makers on each of them .
+here are the names and country names of the car makers from continent asia .
+here are the names and country names of the car makers from continent europe .
+here are the names and country names of the car makers from continent america .
+there are result0 car makers in total .
+there are result0 different professional ids
+here are the ids , first name for all professionals , along with the type codes of the treatment they have done
+here are the ids , first name for all professionals , along with the type codes of the treatment they have done for the 5 most recent treatments .
+here are the names of all the battles
+here are the names of all the battles and their bulgarian commanders
+here are the names of all the battles with no ships lost in the english channel
+here are the names and results of all battles with no ships lost in the english channel
+here are the names , results , and bulgarian commanders of all battles with no ships lost in the english channel
+here are the dates of all the battles with the result of bulgarian victory
+there are result0 likes .
+there are result0 pairs of friends .
+result0 is the id of students with friend id 1689
+there is all the info for all the documents .
+there is all the info for the documents using a template .
+there are result0 documents using a template with code 'ppt ' .
+the average acceleration of all cars data is result0 .
+the average horse power is result0 .
+of the cars with 4 cylinders , result0 is the model of the car that has the largest horsepower .
+these are the unique official languages spoken that are found before 1930 .
+this is the total number of unique official languages spoken in the countries that are founded before 1930 .
