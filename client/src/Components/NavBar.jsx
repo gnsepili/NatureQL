@@ -13,7 +13,7 @@ const Header = () => {
       {/* Menu Items */}
       <div className="w-full block lg:flex lg:items-center lg:w-auto mx-auto text-center">
         <div className="text-sm lg:flex-grow">
-          <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-400 mr-4">
+          <a href="https://medium.com/intuitionmath/text-to-sql-learning-to-query-tables-with-natural-language-7d714e60a70d" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-400 mr-4">
             Blog
           </a>
           <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-400 mr-4">
@@ -24,7 +24,7 @@ const Header = () => {
 
       {/* Github Menu */}
       <div className="flex items-center">
-        <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-400 mr-4">
+        <a href="https://github.com/gnsepili/NatureQL" className="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-gray-400 mr-4">
           Github
         </a>
       </div>

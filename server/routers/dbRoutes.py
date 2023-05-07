@@ -3,7 +3,8 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 import pymysql
 from pymysql.cursors import DictCursor
-from modules.nlsql import nlsql_function
+from modules.openai_nlsql import nlsql_function
+from modules.transformed_nlsql import nlsql_transform
 
 router = APIRouter()
 
@@ -38,6 +39,10 @@ class NLSQLParams(BaseModel):
 
 @router.post("/nlsql")
 async def nlsql(params: NLSQLParams):
-    result = nlsql_function(params.dbSchema, params.prompt)
-    return JSONResponse(content={"result": result})
+    if params.prompt:
+        result = nlsql_function(params.dbSchema, params.prompt)
+        return JSONResponse(content={"result": result})
+    else:
+        result = nlsql_transform(params.dbSchema, params.prompt)
+        return JSONResponse(content={"result": result})
 
