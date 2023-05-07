@@ -34,9 +34,9 @@ Contributing
 If you'd like to contribute to NatureQL, please fork this repository and submit a pull request. We welcome contributions of all kinds, including bug fixes, new features, and improvements to documentation.
 License
 ### Screenshots
-![alt frontend view](client\screenshots\page_view.png)
+![alt frontend view](client/screenshots/page_view.png)
 ## Swagger API preview
-![alt backend view](client\screenshots\doc.png)
+![alt backend view](client/screenshots/doc.png)
 ## Folder structure
 ```NatureQL/
 ├── client/
